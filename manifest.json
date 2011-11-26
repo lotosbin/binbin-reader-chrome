@@ -1,0 +1,22 @@
+{
+  "name": "Reader",
+  "description": "Reader",
+  "version": "0.0.0.1",
+  "app": {
+	"urls": [
+	  "http://reader.binbinsoft.com/"
+	],
+	"launch": {
+	  "web_url": "http://reader.binbinsoft.com/"
+	}
+  },
+  "icons": { 
+			"16": "res/icon/ymatou16.png",
+		   "24": "res/icon/ymatou24.png",
+		   "48": "res/icon/ymatou48.png",
+		  "128": "res/icon/ymatou128.png" },
+  "permissions": [
+	"unlimitedStorage",
+	"notifications"
+  ]
+}
