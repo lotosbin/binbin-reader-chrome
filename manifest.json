@@ -11,10 +11,10 @@
 	}
   },
   "icons": { 
-			"16": "res/icon/ymatou16.png",
-		   "24": "res/icon/ymatou24.png",
-		   "48": "res/icon/ymatou48.png",
-		  "128": "res/icon/ymatou128.png" },
+			"16": "res/icon/icon16.png",
+		   "24": "res/icon/icon24.png",
+		   "48": "res/icon/icon48.png",
+		  "128": "res/icon/icon128.png" },
   "permissions": [
 	"unlimitedStorage",
 	"notifications"
